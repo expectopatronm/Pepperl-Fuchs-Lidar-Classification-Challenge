@@ -31,6 +31,12 @@ classify the boxes that have been on a certain belt and get creative
 
 ## Visualizing Lidar Data
 
+3D Software Render
+
+![](documentation/initial.jpg)
+
+Surface Plot
+
 ![](documentation/newplot.png)
 
 Initial K Means clustering of single scan data to determine seperability of features
@@ -44,3 +50,7 @@ Initial K Means clustering of single scan data to determine seperability of feat
 Classification Accuracy: 43%
 
 ## Method 2: PoinNet Point Cloud Classification
+
+## Live Stream Data
+
+![](documentation/live.gif)
